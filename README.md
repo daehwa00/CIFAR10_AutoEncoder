@@ -62,6 +62,9 @@ Contributions to improve the model or the training process are welcome. Please f
 
 ## Result
 
+- Training for 500 epochs
+- Final L2 loss: 0.0028
+
 ![AutoEncoder Results](result.png)
 
 ## License
