@@ -60,6 +60,10 @@ The AutoEncoder consists of an encoder and a decoder. The encoder compresses the
 
 Contributions to improve the model or the training process are welcome. Please feel free to submit pull requests or open issues to discuss potential improvements.
 
+## Result
+
+![AutoEncoder Results](result.png)
+
 ## License
 
 [MIT License](LICENSE)
